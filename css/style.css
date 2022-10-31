@@ -1,0 +1,24 @@
+.body-1 {
+    background-color: #f1f1f1;
+}
+
+.head-1, 
+.head-2, 
+.head-3 {
+    color: blue;
+    font-weight: 1000;
+    font-style: oblique;
+    border-bottom: 1px solid black;
+}
+
+.head-img-1, 
+.head-img-2 {
+    width: 677px;
+    height: 417px;
+}
+
+.link {
+    color: black;
+    text-decoration: none;   
+}
+
